@@ -1,4 +1,4 @@
-# Bài tập công nghệ phần mềm mới ReactJS
+# Bài tập công nghệ phần mềm mới ReactJS - 19110345 -Nguyễn Hiếu Đan
 # Hướng dẫn chạy phần mềm
 ## Server:
 
